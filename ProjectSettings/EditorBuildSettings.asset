@@ -6,24 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/preload.unity
+    guid: fb0382964d9bdf44dbbf3e236351a0b8
+  - enabled: 1
     path: Assets/home.unity
     guid: b5758a98f00ee13418e7e7d559c87650
   - enabled: 1
+    path: Assets/videoplayer.unity
+    guid: cd318888ee9b6e440a34d2e23d1a4d73
+  - enabled: 0
     path: Assets/videoblock_videoplayer.unity
     guid: 6c176589477c8334196d218e85c38c43
-  - enabled: 1
+  - enabled: 0
     path: Assets/4k_forest_videoplayer.unity
     guid: 0c62bf6e4206ccd43831e6fdc1b31b2b
-  - enabled: 1
+  - enabled: 0
     path: Assets/huge_flames_videoplayer.unity
     guid: c27338bc1cec88746a0b999760341736
-  - enabled: 1
+  - enabled: 0
     path: Assets/remains_videoplayer.unity
     guid: 415393f879c82c5408a4ed67cb3c3082
-  - enabled: 1
+  - enabled: 0
     path: Assets/socal_videoplayer.unity
     guid: 2d7802d665e75a94a94bd4e2490281dd
-  - enabled: 1
+  - enabled: 0
     path: Assets/steepe_videoplayer.unity
     guid: 1a92a7a3b14d0844dab7e647430fd51a
   m_configObjects: {}

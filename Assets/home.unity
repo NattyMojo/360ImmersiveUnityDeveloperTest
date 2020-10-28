@@ -171,6 +171,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3358c720a0697c3418ee06d743dfc665, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  texture: {fileID: 2800000, guid: 11fec8889d1fbbb4aaa520e07202b045, type: 3}
+  video: {fileID: 32900000, guid: ddd1456e82ebeef4c87c7205c2e843a8, type: 3}
 --- !u!114 &98590208
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -749,6 +751,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3358c720a0697c3418ee06d743dfc665, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  texture: {fileID: 2800000, guid: e89aa3de1ff8cac4588a659ee0aed63e, type: 3}
+  video: {fileID: 32900000, guid: 19f40358ab313f1498ff6c49df0d41ad, type: 3}
 --- !u!1 &921417683
 GameObject:
   m_ObjectHideFlags: 0
@@ -996,6 +1000,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3358c720a0697c3418ee06d743dfc665, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  texture: {fileID: 2800000, guid: c65c6169808d4b54f86a3166dcd9587c, type: 3}
+  video: {fileID: 32900000, guid: 0b1ceb1b5394662479acd6ec7c7369fc, type: 3}
 --- !u!1 &1093078715
 GameObject:
   m_ObjectHideFlags: 0
@@ -1080,6 +1086,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3358c720a0697c3418ee06d743dfc665, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  texture: {fileID: 2800000, guid: eb9991bc37634f849a8169b913781089, type: 3}
+  video: {fileID: 32900000, guid: f1c845fb3a3df3e4290bd3ec410b0701, type: 3}
 --- !u!1 &1218841544
 GameObject:
   m_ObjectHideFlags: 0
@@ -1557,6 +1565,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3358c720a0697c3418ee06d743dfc665, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  texture: {fileID: 2800000, guid: bf674b14c5ae0b84f9a066fdbe1b9888, type: 3}
+  video: {fileID: 32900000, guid: 5de1782629ab48948b0fa126aa81c64e, type: 3}
 --- !u!1 &2031924747
 GameObject:
   m_ObjectHideFlags: 0
@@ -1825,3 +1835,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3358c720a0697c3418ee06d743dfc665, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  texture: {fileID: 2800000, guid: 39843ecd4fca8cb4c833b30e0e71c195, type: 3}
+  video: {fileID: 32900000, guid: 8c920a27069379d459cfb4997ed1ca63, type: 3}
